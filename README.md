@@ -9,7 +9,7 @@ Here are some of the tools and technologies I use:
 * **Languages:** `JavaScript`, `PHP`, `HTML`, `CSS`, `C++`
 * **Frameworks:** `Laravel`
 * **Databases:** `PostgreSQL`, `MongoDB`. `MySQL`
-* **Tools:** `Git`, `Docker`, `VS Code`
+* **Tools:** `Git`, `Docker`
 
 ---
 
